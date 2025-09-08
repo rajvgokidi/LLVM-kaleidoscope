@@ -8,8 +8,3 @@ A minimal implementation of the famous Kaleidoscope language tutorial using LLVM
 - LLVM IR code generation
 - Just-in-time (JIT) compilation and execution
 - Extensible for adding variables, control flow, and more
-
-## Getting Started
-
-1. **Clone the Repository**
-
